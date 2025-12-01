@@ -1,0 +1,14 @@
+{
+  "name": "crypto-digest-generator",
+  "version": "1.0.0",
+  "description": "Crypto Digest powered by Groq and Vercel",
+  "main": "api/digest.js",
+  "scripts": {
+    "start": "echo 'Vercel handles the deployment'",
+    "test": "echo 'No test specified'"
+  },
+  "dependencies": {
+    "groq-sdk": "^0.3.0", 
+    "node-fetch": "^2.6.7" 
+  }
+}
